@@ -104,3 +104,10 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity generated folders
+1HourRogueLike/Library/
+1HourRogueLike/Temp/
+1HourRogueLike/Obj/
+1HourRogueLike/Logs/
+1HourRogueLike/UserSettings/
